@@ -8,7 +8,7 @@ public class Poblacion {
         String pob_inicial="";
         int a;
         int c=1;
-        String palabra="";
+        String palabra;
         String [] partes = args[4].split("=");
         if(partes[0].equals("p")) {
             if (partes[1].equals("rnd")) {
