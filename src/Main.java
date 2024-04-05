@@ -5,7 +5,8 @@ import poblaciones.PoblacionInicial;
 import procesos.GeneracionesImpresion;
 
 /**
- *  Pasar los valores iniciales en la configuracion del main en los argumentos iniciales
+ * Pasar los valores iniciales en la configuracion del main en los argumentos iniciales
+ * @author Ariel Murillo
  */
 public class Main {
     public static void main(String[] args) {
